@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056316792952",
+    "project_id": "login-form-27b54",
+    "storage_bucket": "login-form-27b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056316792952:android:0e14d17b57d51f37660d8d",
+        "android_client_info": {
+          "package_name": "com.tapaswini.login1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv-I2FRc3dAjpx63gVcO63yDDoewAiU90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
